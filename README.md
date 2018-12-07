@@ -5,7 +5,8 @@ https://arxiv.org/abs/1511.04587
 python vdsr.py --start to train
 
 Dataset: 1900 images from Imagenet
-LRSR:2*
+
+Scale:×2
 
 ## Bug Issues:
 Batch_size = 64 may be too large
