@@ -8,5 +8,12 @@ Dataset: 1900 images from Imagenet
 
 Scale:×2
 
+## TODO:
+1.Test the PSNR when network's depth is 5,10,20
+
+2.Test the PSNR of scale 2 when training data is 2*, 2*/4*
+
+3.Compare the PSNR between using residual or not
+
 ## Bug Issues:
 Batch_size = 64 may be too large
