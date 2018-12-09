@@ -15,5 +15,3 @@ Scale:×2
 
 3.Compare the PSNR between using residual or not
 
-## Bug Issues:
-Batch_size = 64 may be too large
