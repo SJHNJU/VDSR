@@ -15,3 +15,8 @@ Scale:×2
 
 3.Compare the PSNR between using residual or not
 
+算球
+
+彩色图loss死不收敛
+
+机器智障
